@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KakuhuMatondo
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Open Source 
+- 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning and Open Source 
 - 🌱 I’m currently learning how to contribute to Open Source
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me kakuhu50@gmail.com
